@@ -1,6 +1,7 @@
 # Jobicy.cs
 Web-API for [jobicy.com](https://jobicy.com/) which provides access to the latest remote job listings from a diverse range of industries and companies
 
+## Example
 ```cs
 using JobicyApi;
 
